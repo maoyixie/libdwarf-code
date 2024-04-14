@@ -37,4 +37,6 @@ fuzz_srcfiles.c \
 fuzz_stack_frame_access.c \
 fuzz_str_offsets.c \
 fuzz_tie.c \
-fuzz_xuindex.c
+fuzz_xuindex.c \
+fuzz_dwarf_init_b.c \
+fuzz_dwarf_init_path.c 
